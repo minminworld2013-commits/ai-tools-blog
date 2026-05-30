@@ -29,6 +29,13 @@ menu:
       name: 태그
       url: /tags/
       weight: 20
+    - identifier: privacy
+      name: 개인정보처리방침
+      url: /privacy-policy/
+      weight: 30
+
+# Google Analytics 4 (add your G-XXXXXXXXXX measurement ID)
+# googleAnalytics: "G-XXXXXXXXXX"
 
 outputs:
   home:
