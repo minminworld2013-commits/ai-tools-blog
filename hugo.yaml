@@ -1,0 +1,37 @@
+baseURL: "https://minminworld2013-commits.github.io/ai-tools-blog/"
+languageCode: ko
+title: "AI 도구 연구소"
+theme: PaperMod
+paginate: 10
+
+params:
+  author: "AI 도구 연구소"
+  description: "AI 도구 정직한 리뷰 · 비교 · 사용법"
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  homeInfoParams:
+    Title: "AI 도구 연구소"
+    Content: "AI 생산성 도구를 정직하게 분석합니다. 가격, 기능, 실제 활용도 기준으로 추천드립니다."
+  socialIcons:
+    - name: github
+      url: "https://github.com/minminworld2013-commits"
+
+menu:
+  main:
+    - identifier: categories
+      name: 카테고리
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: 태그
+      url: /tags/
+      weight: 20
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
