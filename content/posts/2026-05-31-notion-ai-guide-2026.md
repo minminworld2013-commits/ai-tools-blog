@@ -1,5 +1,5 @@
 ---
-title: Notion AI 제대로 쓰는 법: 무료 플랜으로도 충분한 기능 7가지
+title: "Notion AI 제대로 쓰는 법: 무료 플랜으로도 충분한 기능 7가지"
 date: 2026-05-31
 draft: false
 tags: [Notion AI, 생산성 도구, 무료 AI, AI 활용법, 문서 관리, 작업 자동화]
