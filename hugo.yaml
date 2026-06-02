@@ -5,6 +5,7 @@ theme: PaperMod
 paginate: 10
 
 params:
+  env: production
   author: "AI 도구 연구소"
   description: "AI 도구 정직한 리뷰 · 비교 · 사용법"
   defaultTheme: auto
