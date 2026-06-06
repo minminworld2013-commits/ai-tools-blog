@@ -5,6 +5,10 @@ draft: false
 tags: [Notion AI, 생산성 도구, 무료 AI, AI 활용법, 문서 관리, 작업 자동화]
 categories: [생산성, AI]
 description: Notion AI 무료 플랜의 강력한 기능 7가지를 자세히 살펴보고, 유료 플랜 없이도 Notion AI를 최대한 활용하는 방법을 소개합니다. 이 글은 공식 정보와 사용자 리뷰를 기반으로 작성되었습니다.
+cover:
+  image: "/images/2026-05-31-notion-ai-guide-2026-cover.jpg"
+  alt: "notion ai guide 2026 커버 이미지"
+  caption: "Photo by [652234](https://pixabay.com/photos/bicycle-path-road-sign-bicycle-sign-3444914/) on Pixabay"
 ---
 
 이 글에는 제휴 링크가 포함될 수 있으며, 구매 시 소정의 수수료를 받을 수 있습니다.

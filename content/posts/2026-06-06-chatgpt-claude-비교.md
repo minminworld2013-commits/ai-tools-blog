@@ -5,6 +5,10 @@ draft: false
 tags: ["chatgpt", "claude", "ai글쓰기", "chatgpt-claude-비교", "한국어ai"]
 categories: ["ai-writing"]
 description: "ChatGPT와 Claude를 한국어 글쓰기 관점에서 철저히 비교합니다. 무료/유료 플랜, 컨텍스트 창 크기, 한국어 문체, 단점까지 2026년 최신 정보로 정리했습니다."
+cover:
+  image: "/images/2026-06-06-chatgpt-claude-비교-cover.jpg"
+  alt: "chatgpt claude 비교 커버 이미지"
+  caption: "Photo by [hakelbudel](https://pixabay.com/photos/water-lilies-nature-pink-pond-361630/) on Pixabay"
 ---
 
 > ※ 이 글에는 제휴 마케팅 링크가 포함될 수 있으며, 구매 시 수수료를 받을 수 있습니다.

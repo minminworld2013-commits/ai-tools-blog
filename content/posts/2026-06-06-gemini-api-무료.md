@@ -5,6 +5,10 @@ draft: false
 tags: ["gemini", "gemini-api", "gemini-api-무료", "google-ai", "ai-tutorial", "무료-api"]
 categories: ["ai-tutorial"]
 description: "Gemini 2.5 Flash API를 무료로 시작하는 방법부터 실전 Python 코드, 요금 한도, 단점까지 한국어로 완전 정리했습니다. 신용카드 없이 하루 1,500회 무료 호출 가능."
+cover:
+  image: "/images/2026-06-06-gemini-api-무료-cover.jpg"
+  alt: "gemini api 무료 커버 이미지"
+  caption: "Photo by [MiraCosic](https://pixabay.com/photos/astrology-divination-chart-993127/) on Pixabay"
 ---
 
 > ※ 이 글에는 제휴 마케팅 링크가 포함될 수 있으며, 구매 시 수수료를 받을 수 있습니다.
