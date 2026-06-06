@@ -21,7 +21,7 @@ cover:
 
 ## Notion AI 무료 플랜의 핵심 제한 사항
 
-![20회 무료 프롬프트를 기능별로 효율적으로 배분하는 의사결정 흐름](images/2026-05-31-notion-ai-guide-2026-diagram.png)
+![20회 무료 프롬프트를 기능별로 효율적으로 배분하는 의사결정 흐름](/ai-tools-blog/images/2026-05-31-notion-ai-guide-2026-diagram.png)
 *20회 무료 프롬프트를 기능별로 효율적으로 배분하는 의사결정 흐름*
 
 
