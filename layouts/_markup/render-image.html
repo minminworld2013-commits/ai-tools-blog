@@ -1,0 +1,6 @@
+{{- $src := .Destination -}}
+{{- if not (hasPrefix $src "http") }}{{ $src = $src | relURL }}{{ end -}}
+<figure class="diagram-card">
+  <img src="{{ $src | safeURL }}" alt="{{ .Text }}"{{ with .Title }} title="{{ . }}"{{ end }} loading="lazy">
+  {{- with .Text }}<figcaption>{{ . }}</figcaption>{{ end }}
+</figure>

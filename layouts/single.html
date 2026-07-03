@@ -1,0 +1,35 @@
+{{- define "main" }}
+<div class="pm-shell">
+
+  <header class="pm-hero">
+    <div class="pm-hero-copy">
+      {{- with .Params.categories }}<div class="pm-eyebrow">{{ index . 0 }}</div>{{ end }}
+      <h1>{{ .Title }}</h1>
+      {{- with .Params.description }}<p class="pm-description">{{ . }}</p>{{ end }}
+      <div class="pm-meta">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006년 1월 2일" }}</time>
+        {{- if .ReadingTime }} · <span>{{ .ReadingTime }}분 읽기</span>{{ end }}
+      </div>
+    </div>
+    <figure class="pm-hero-visual">
+      {{- $cover := "" }}
+      {{- with .Params.cover }}{{ with .image }}{{ $cover = . }}{{ end }}{{ end }}
+      {{- if $cover }}
+        {{- $src := $cover }}{{ if not (hasPrefix $cover "http") }}{{ $src = $cover | relURL }}{{ end }}
+        <img src="{{ $src }}" alt="{{ .Title }}" loading="eager">
+      {{- else }}
+        <div class="pm-hero-visual-placeholder"></div>
+      {{- end }}
+    </figure>
+  </header>
+
+  <article class="pm-article">
+    {{ .Content }}
+  </article>
+
+  <nav class="pm-backlink">
+    <a href="{{ "/" | relURL }}">← 목록으로</a>
+  </nav>
+
+</div>
+{{- end }}

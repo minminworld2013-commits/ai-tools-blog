@@ -1,2 +1,11 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7168028268442960"
      crossorigin="anonymous"></script>
+
+{{- /* Premium editorial theme (MP-058): fonts + design-SSOT stylesheet */ -}}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;500;700&family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+{{- with resources.Get "css/premium.css" }}
+{{- $css := . | fingerprint }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
+{{- end }}
