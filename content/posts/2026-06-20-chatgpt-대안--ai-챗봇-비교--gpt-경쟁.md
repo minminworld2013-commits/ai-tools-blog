@@ -21,7 +21,7 @@ cover:
 
 ## 2026년 AI 챗봇 시장 점유율 현황
 
-![2026년 6월 기준 AI 챗봇 시장 점유율 — 87%→54.7%로 하락한 ChatGPT, 사실상 3파전으로 재편](/ai-tools-blog/images/chatgpt-대안--ai-챗봇-비교--gpt-경쟁-diagram.png)
+![2026년 6월 기준 AI 챗봇 시장 점유율 — 87%→54.7%로 하락한 ChatGPT, 사실상 3파전으로 재편](/images/chatgpt-대안--ai-챗봇-비교--gpt-경쟁-diagram.png)
 *2026년 6월 기준 AI 챗봇 시장 점유율 — 87%→54.7%로 하락한 ChatGPT, 사실상 3파전으로 재편*
 
 

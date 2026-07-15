@@ -25,7 +25,7 @@ cover:
 
 ## Sandstone AI란 무엇인가
 
-![시드 $10M 출시 → 90일 만에 매출 40배 → 시리즈 A $30M: 법률 AI 시장의 이례적 트랙션](/ai-tools-blog/images/법률-ai--sandstone-ai-diagram.png)
+![시드 $10M 출시 → 90일 만에 매출 40배 → 시리즈 A $30M: 법률 AI 시장의 이례적 트랙션](/images/법률-ai--sandstone-ai-diagram.png)
 *시드 $10M 출시 → 90일 만에 매출 40배 → 시리즈 A $30M: 법률 AI 시장의 이례적 트랙션*
 
 

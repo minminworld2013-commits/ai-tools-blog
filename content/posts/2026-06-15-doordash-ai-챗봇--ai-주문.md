@@ -67,7 +67,7 @@ AI가 단순히 목록을 나열하는 것이 아니라, 각 레스토랑에 대
 
 ## 단점 및 한계 (반드시 확인하세요)
 
-![Ask DoorDash는 5배 빠른 편의성을 제공하지만 장바구니 금액이 35% 높아지는 트레이드오프가 존재한다](/ai-tools-blog/images/doordash-ai-챗봇--ai-주문-diagram.png)
+![Ask DoorDash는 5배 빠른 편의성을 제공하지만 장바구니 금액이 35% 높아지는 트레이드오프가 존재한다](/images/doordash-ai-챗봇--ai-주문-diagram.png)
 *Ask DoorDash는 5배 빠른 편의성을 제공하지만 장바구니 금액이 35% 높아지는 트레이드오프가 존재한다*
 
 

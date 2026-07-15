@@ -35,7 +35,7 @@ Respond.io는 WhatsApp Business, Instagram DM, Facebook Messenger, 이메일, SM
 
 ## 핵심 기능 상세 분석
 
-![Respond.io AI 에이전트의 메시지 처리 흐름 — RAG 검색 후 신뢰도에 따라 자동 응답 또는 인간 에스컬레이션으로 분기](/ai-tools-blog/images/respond-io-사용법--ai-에이전트-앱-diagram.png)
+![Respond.io AI 에이전트의 메시지 처리 흐름 — RAG 검색 후 신뢰도에 따라 자동 응답 또는 인간 에스컬레이션으로 분기](/images/respond-io-사용법--ai-에이전트-앱-diagram.png)
 *Respond.io AI 에이전트의 메시지 처리 흐름 — RAG 검색 후 신뢰도에 따라 자동 응답 또는 인간 에스컬레이션으로 분기*
 
 

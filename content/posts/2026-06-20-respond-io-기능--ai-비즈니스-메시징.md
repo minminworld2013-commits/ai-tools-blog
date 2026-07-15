@@ -75,7 +75,7 @@ Flow Builder는 드래그앤드롭 방식으로 자동화 시퀀스를 구성하
 
 ## 단점 및 한계 — 도입 전 반드시 확인할 것
 
-![팀 상황별 Respond.io 도입 의사결정 흐름도](/ai-tools-blog/images/respond-io-기능--ai-비즈니스-메시징-diagram.png)
+![팀 상황별 Respond.io 도입 의사결정 흐름도](/images/respond-io-기능--ai-비즈니스-메시징-diagram.png)
 *팀 상황별 Respond.io 도입 의사결정 흐름도*
 
 

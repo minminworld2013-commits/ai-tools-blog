@@ -83,7 +83,7 @@ Ask Pinterest에서 얻은 인사이트는 향후 메인 Pinterest 플랫폼의 
 
 ## 단점과 한계: 솔직한 평가
 
-![AI 쇼핑 서비스 3종 비교: Ask Pinterest는 Taste Graph 기반 개인화가 뛰어나지만 미국 소수 사용자 제한으로 접근성이 낮음](/ai-tools-blog/images/ask-pinterest-후기--ai-쇼핑-앱-diagram.png)
+![AI 쇼핑 서비스 3종 비교: Ask Pinterest는 Taste Graph 기반 개인화가 뛰어나지만 미국 소수 사용자 제한으로 접근성이 낮음](/images/ask-pinterest-후기--ai-쇼핑-앱-diagram.png)
 *AI 쇼핑 서비스 3종 비교: Ask Pinterest는 Taste Graph 기반 개인화가 뛰어나지만 미국 소수 사용자 제한으로 접근성이 낮음*
 
 

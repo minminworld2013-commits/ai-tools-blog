@@ -29,7 +29,7 @@ cover:
 
 ## 시장 지형의 급변: 무슨 일이 일어났나
 
-![ChatGPT 점유율 49%로 하락, Gemini(18.2%)·Grok(15.2%)이 빠르게 시장을 잠식 중](/ai-tools-blog/images/chatgpt-대체--ai-챗봇-비교-diagram.png)
+![ChatGPT 점유율 49%로 하락, Gemini(18.2%)·Grok(15.2%)이 빠르게 시장을 잠식 중](/images/chatgpt-대체--ai-챗봇-비교-diagram.png)
 *ChatGPT 점유율 49%로 하락, Gemini(18.2%)·Grok(15.2%)이 빠르게 시장을 잠식 중*
 
 

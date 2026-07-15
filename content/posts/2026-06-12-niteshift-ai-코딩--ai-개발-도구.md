@@ -28,7 +28,7 @@ Claude Code를 쓰다가 Codex로 갈아타고 싶은데, 환경을 처음부터
 
 ## Niteshift AI란 무엇인가
 
-![Niteshift AI 실행 흐름: 에이전트 무관하게 클라우드 샌드박스에서 실행 후 검증된 PR 반환](/ai-tools-blog/images/niteshift-ai-코딩--ai-개발-도구-diagram.png)
+![Niteshift AI 실행 흐름: 에이전트 무관하게 클라우드 샌드박스에서 실행 후 검증된 PR 반환](/images/niteshift-ai-코딩--ai-개발-도구-diagram.png)
 *Niteshift AI 실행 흐름: 에이전트 무관하게 클라우드 샌드박스에서 실행 후 검증된 PR 반환*
 
 

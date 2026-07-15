@@ -36,7 +36,7 @@ Cursor는 VS Code를 기반으로 만들어진 AI 코드 에디터다. ([cursor.
 
 ## 핵심 기능 상세
 
-![Cursor AI Agent 모드의 자율 코딩 실행 흐름 — 에러 감지 시 자동으로 수정 루프를 반복하고 성공 시 완료](/ai-tools-blog/images/cursor-ai-사용법--ai-코딩-도구-diagram.png)
+![Cursor AI Agent 모드의 자율 코딩 실행 흐름 — 에러 감지 시 자동으로 수정 루프를 반복하고 성공 시 완료](/images/cursor-ai-사용법--ai-코딩-도구-diagram.png)
 *Cursor AI Agent 모드의 자율 코딩 실행 흐름 — 에러 감지 시 자동으로 수정 루프를 반복하고 성공 시 완료*
 
 

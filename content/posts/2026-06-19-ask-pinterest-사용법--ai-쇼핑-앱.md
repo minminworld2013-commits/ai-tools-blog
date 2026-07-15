@@ -27,7 +27,7 @@ cover:
 
 ## Ask Pinterest란 무엇인가?
 
-![Ask Pinterest 활용 전 체크플로우 — 미국 거주 여부·계정·취향 데이터·쿼리 복잡도 4단계로 적합성 판단](/ai-tools-blog/images/ask-pinterest-사용법--ai-쇼핑-앱-diagram.png)
+![Ask Pinterest 활용 전 체크플로우 — 미국 거주 여부·계정·취향 데이터·쿼리 복잡도 4단계로 적합성 판단](/images/ask-pinterest-사용법--ai-쇼핑-앱-diagram.png)
 *Ask Pinterest 활용 전 체크플로우 — 미국 거주 여부·계정·취향 데이터·쿼리 복잡도 4단계로 적합성 판단*
 
 

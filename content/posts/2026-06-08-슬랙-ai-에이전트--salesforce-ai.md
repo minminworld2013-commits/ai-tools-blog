@@ -27,7 +27,7 @@ cover:
 
 ## Slackbot이란 무엇인가
 
-![단순 알림 봇에서 AI 에이전트로 — Slackbot의 진화 타임라인](/ai-tools-blog/images/슬랙-ai-에이전트--salesforce-ai-diagram.png)
+![단순 알림 봇에서 AI 에이전트로 — Slackbot의 진화 타임라인](/images/슬랙-ai-에이전트--salesforce-ai-diagram.png)
 *단순 알림 봇에서 AI 에이전트로 — Slackbot의 진화 타임라인*
 
 

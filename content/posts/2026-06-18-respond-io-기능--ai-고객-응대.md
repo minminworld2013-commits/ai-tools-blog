@@ -81,7 +81,7 @@ Salesforce, HubSpot 등 주요 CRM과의 **양방향 연동**도 지원해([http
 
 ## 단점 및 한계 — 도입 전 반드시 확인
 
-![AI 자동화·에이전트 기능을 사용하려면 Growth 플랜($159/월)이 필수로, Starter 대비 약 2배 비용이 발생한다.](/ai-tools-blog/images/respond-io-기능--ai-고객-응대-diagram.png)
+![AI 자동화·에이전트 기능을 사용하려면 Growth 플랜($159/월)이 필수로, Starter 대비 약 2배 비용이 발생한다.](/images/respond-io-기능--ai-고객-응대-diagram.png)
 *AI 자동화·에이전트 기능을 사용하려면 Growth 플랜($159/월)이 필수로, Starter 대비 약 2배 비용이 발생한다.*
 
 

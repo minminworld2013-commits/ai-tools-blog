@@ -115,7 +115,7 @@ Gemini Advanced는 구글 계정을 기반으로 작동하며, 핵심 강점인 
 
 ## 단점 및 한계 정리
 
-![사용 환경과 필요 기능에 따른 Gemini Advanced vs ChatGPT Plus 선택 가이드](/ai-tools-blog/images/gemini-advanced-chatgpt-plus-비교-diagram.png)
+![사용 환경과 필요 기능에 따른 Gemini Advanced vs ChatGPT Plus 선택 가이드](/images/gemini-advanced-chatgpt-plus-비교-diagram.png)
 *사용 환경과 필요 기능에 따른 Gemini Advanced vs ChatGPT Plus 선택 가이드*
 
 

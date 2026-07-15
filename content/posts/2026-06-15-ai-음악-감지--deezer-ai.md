@@ -29,7 +29,7 @@ cover:
 
 ## Deezer AI 음악 감지 도구란?
 
-![Deezer 데이터 기준, 신규 사용자 라이브러리 중 43%가 AI 생성 음악으로 구성 (출처: digitalmusicnews.com)](/ai-tools-blog/images/ai-음악-감지--deezer-ai-diagram.png)
+![Deezer 데이터 기준, 신규 사용자 라이브러리 중 43%가 AI 생성 음악으로 구성 (출처: digitalmusicnews.com)](/images/ai-음악-감지--deezer-ai-diagram.png)
 *Deezer 데이터 기준, 신규 사용자 라이브러리 중 43%가 AI 생성 음악으로 구성 (출처: digitalmusicnews.com)*
 
 

@@ -75,7 +75,7 @@ Advanced 플랜 이상에서 AI 음성 기능을 제공한다([respond.io/pricin
 
 ## 단점 및 한계 종합
 
-![Respond.io 도입 여부를 결정하는 4단계 의사결정 흐름도](/ai-tools-blog/images/respond-io-ai--ai-메시징-앱-diagram.png)
+![Respond.io 도입 여부를 결정하는 4단계 의사결정 흐름도](/images/respond-io-ai--ai-메시징-앱-diagram.png)
 *Respond.io 도입 여부를 결정하는 4단계 의사결정 흐름도*
 
 

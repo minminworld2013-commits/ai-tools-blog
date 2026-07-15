@@ -43,7 +43,7 @@ cover:
 
 ## 구글 AI 생태계 속 Dreambeans의 위치
 
-![AI 애니메이션 도구 선택 가이드 — 생태계·예산·커스터마이징 필요도에 따른 최적 도구 분기](/ai-tools-blog/images/구글-dreambeans-사용법-diagram.png)
+![AI 애니메이션 도구 선택 가이드 — 생태계·예산·커스터마이징 필요도에 따른 최적 도구 분기](/images/구글-dreambeans-사용법-diagram.png)
 *AI 애니메이션 도구 선택 가이드 — 생태계·예산·커스터마이징 필요도에 따른 최적 도구 분기*
 
 구글이 Dreambeans를 왜 지금 출시했는지 이해하려면 경쟁 구도를 먼저 봐야 합니다. 2026년 현재 AI 애니메이션·영상 생성 시장에서는 **[Runway ML](https://runwayml.com/)**, **[Kaiber](https://kaiber.ai/)**, **[Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)**가 선전하고 있습니다.

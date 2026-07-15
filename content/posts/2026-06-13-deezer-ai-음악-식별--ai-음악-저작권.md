@@ -43,7 +43,7 @@ cover:
 
 ## AI가 음악 산업을 잠식하고 있다
 
-![Deezer 플랫폼 신규 업로드 중 AI 생성 음악 비율 — 전체의 44%가 AI 생성물](/ai-tools-blog/images/deezer-ai-음악-식별--ai-음악-저작권-diagram.png)
+![Deezer 플랫폼 신규 업로드 중 AI 생성 음악 비율 — 전체의 44%가 AI 생성물](/images/deezer-ai-음악-식별--ai-음악-저작권-diagram.png)
 *Deezer 플랫폼 신규 업로드 중 AI 생성 음악 비율 — 전체의 44%가 AI 생성물*
 
 하루에 무려 75,000곡. 이것이 현재 Deezer에 매일 업로드되는 AI 생성 음악의 수입니다 ([출처](https://www.musicbusinessworldwide.com/75000-ai-generated-tracks-now-flood-deezer-daily-representing-44-of-all-new-music-uploaded-to-the-platform-says-streamer/)). 전체 신규 업로드의 44%가 AI 생성물이라는 현실 앞에, 수십 년간 유지해온 음악 저작권 및 로열티 시스템이 전례 없는 위기에 직면하고 있습니다 ([출처](https://www.musicbusinessworldwide.com/75000-ai-generated-tracks-now-flood-deezer-daily-representing-44-of-all-new-music-uploaded-to-the-platform-says-streamer/)). Deezer는 이 문제를 해결하기 위해 독자적인 AI 음악 탐지 기술을 개발하고, 이를 경쟁사와 저작권 단체에도 라이선싱하는 전략으로 음악 산업 전반의 패러다임을 바꾸고 있습니다.

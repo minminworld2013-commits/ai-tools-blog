@@ -27,7 +27,7 @@ cover:
 
 ## Ask Pinterest란 무엇인가? 핵심 개념 이해
 
-![Ask Pinterest의 핵심 개념·기능·현재 한계를 한눈에 파악하는 구조도](/ai-tools-blog/images/핀터레스트-ai-쇼핑--ask-pinterest-사용법-diagram.png)
+![Ask Pinterest의 핵심 개념·기능·현재 한계를 한눈에 파악하는 구조도](/images/핀터레스트-ai-쇼핑--ask-pinterest-사용법-diagram.png)
 *Ask Pinterest의 핵심 개념·기능·현재 한계를 한눈에 파악하는 구조도*
 
 

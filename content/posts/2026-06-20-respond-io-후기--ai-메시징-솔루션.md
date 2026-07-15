@@ -36,7 +36,7 @@ cover:
 
 ## 핵심 기능 상세 분석
 
-![필요 기능에 따른 Respond.io 플랜 선택 의사결정 흐름](/ai-tools-blog/images/respond-io-후기--ai-메시징-솔루션-diagram.png)
+![필요 기능에 따른 Respond.io 플랜 선택 의사결정 흐름](/images/respond-io-후기--ai-메시징-솔루션-diagram.png)
 *필요 기능에 따른 Respond.io 플랜 선택 의사결정 흐름*
 
 

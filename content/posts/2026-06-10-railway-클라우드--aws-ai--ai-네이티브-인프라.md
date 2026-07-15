@@ -23,7 +23,7 @@ cover:
 
 ## Railway란 무엇인가
 
-![주요 클라우드·PaaS 플랫폼의 AI 네이티브 수준 vs 비용 효율성 포지셔닝 — Railway는 두 축 모두에서 경쟁사 대비 우위를 주장한다](/ai-tools-blog/images/railway-클라우드--aws-ai--ai-네이티브-인프라-diagram.png)
+![주요 클라우드·PaaS 플랫폼의 AI 네이티브 수준 vs 비용 효율성 포지셔닝 — Railway는 두 축 모두에서 경쟁사 대비 우위를 주장한다](/images/railway-클라우드--aws-ai--ai-네이티브-인프라-diagram.png)
 *주요 클라우드·PaaS 플랫폼의 AI 네이티브 수준 vs 비용 효율성 포지셔닝 — Railway는 두 축 모두에서 경쟁사 대비 우위를 주장한다*
 
 
