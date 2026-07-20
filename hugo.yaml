@@ -22,6 +22,10 @@ params:
 
 menu:
   main:
+    - identifier: novels
+      name: 연재소설
+      url: /novels/
+      weight: 5
     - identifier: categories
       name: 카테고리
       url: /categories/
